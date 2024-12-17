@@ -1,7 +1,8 @@
 
 **Functions**
 
-- Full functional TPS/MyCo Shield for Arduino based on the circuit from [https://wkla.no-ip.biz](https://wkla.no-ip.biz/ArduinoWiki/doku.php?id=arduino:arduinosps)
+- Full functional circuit for a TPS/MyCo Arduino Shield based on the layout from [https://wkla.no-ip.biz](https://wkla.no-ip.biz/ArduinoWiki/doku.php?id=arduino:arduinosps)
+- Documents and Firmware is not mine. It is only copied from the original.
 
 ---
 
