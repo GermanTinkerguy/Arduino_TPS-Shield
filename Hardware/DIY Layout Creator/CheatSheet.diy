@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+  <fileVersion>
+    <major>5</major>
+    <minor>9</minor>
+    <build>0</build>
+  </fileVersion>
+  <title>New Project</title>
+  <author>dragon1</author>
+  <width value="29.0" unit="cm"/>
+  <height value="21.0" unit="cm"/>
+  <gridSpacing value="0.1" unit="in"/>
+  <dotSpacing>1</dotSpacing>
+  <components>
+    <diylc.shapes.Rectangle>
+      <id>00f5364a-c0de-4943-a76e-25854deaf1db</id>
+      <name>RECT2</name>
+      <alpha>0</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="3.9" y="3.0"/>
+        <point x="6.6" y="5.1"/>
+      </controlPoints>
+      <firstPoint x="3.9" y="3.0"/>
+      <secondPoint x="6.6" y="5.1"/>
+      <color hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <borderThickness value="0.2" unit="mm"/>
+      <length value="68.58" unit="mm"/>
+      <width value="53.33999999999998" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <edgeRadius value="0.0" unit="mm"/>
+    </diylc.shapes.Rectangle>
+    <diylc.electromechanical.PinHeader>
+      <id>c57ecf26-bf04-44cf-ad78-cacd786a25f3</id>
+      <name>PH2</name>
+      <alpha>0</alpha>
+      <orientation>_270</orientation>
+      <controlPoints>
+        <point x="4.6" y="3.1"/>
+        <point x="4.7" y="3.1"/>
+        <point x="4.800000000000001" y="3.1"/>
+        <point x="4.900000000000001" y="3.1"/>
+        <point x="5.000000000000001" y="3.1"/>
+        <point x="5.1" y="3.1"/>
+        <point x="5.2" y="3.1"/>
+        <point x="5.3" y="3.1"/>
+        <point x="5.4" y="3.1"/>
+        <point x="5.5" y="3.1"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>10</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="000000"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.PinHeader>
+      <id>cfecbfb4-5f9b-48ce-bd43-152c3a535da7</id>
+      <name>PH1</name>
+      <alpha>0</alpha>
+      <orientation>_270</orientation>
+      <controlPoints>
+        <point x="5.7" y="3.1"/>
+        <point x="5.8" y="3.1"/>
+        <point x="5.9" y="3.1"/>
+        <point x="6.0" y="3.1"/>
+        <point x="6.1" y="3.1"/>
+        <point x="6.2" y="3.1"/>
+        <point x="6.3" y="3.1"/>
+        <point x="6.4" y="3.1"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>8</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="000000"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.PinHeader>
+      <id>d5fd0c66-002f-4a5e-a561-af49eed05689</id>
+      <name>PH4</name>
+      <alpha>0</alpha>
+      <orientation>_270</orientation>
+      <controlPoints>
+        <point x="5.9" y="5.0"/>
+        <point x="6.0" y="5.0"/>
+        <point x="6.1" y="5.0"/>
+        <point x="6.2" y="5.0"/>
+        <point x="6.3" y="5.0"/>
+        <point x="6.4" y="5.0"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>6</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="000000"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.PinHeader>
+      <id>5050dc07-70d4-4aaa-a2ad-f0c33c1338a2</id>
+      <name>PH5</name>
+      <alpha>0</alpha>
+      <orientation>_270</orientation>
+      <controlPoints>
+        <point x="5.0" y="5.0"/>
+        <point x="5.1" y="5.0"/>
+        <point x="5.2" y="5.0"/>
+        <point x="5.3" y="5.0"/>
+        <point x="5.4" y="5.0"/>
+        <point x="5.5" y="5.0"/>
+        <point x="5.6" y="5.0"/>
+        <point x="5.7" y="5.0"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>8</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="000000"/>
+      <shroudColor hex="000000"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.semiconductors.LED>
+      <id>73cb45b2-b08d-4f98-af18-80d3a2806245</id>
+      <name>2</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="4.800000000000001" y="3.8"/>
+        <point x="4.8" y="3.9"/>
+        <point x="4.8" y="3.85"/>
+      </points>
+      <bodyColor hex="5dfc0a"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.semiconductors.LED>
+      <id>138d15ce-a766-4eef-ac35-f092e35690ef</id>
+      <name>1</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="5.0" y="3.8"/>
+        <point x="4.999999999999999" y="3.9"/>
+        <point x="5.0" y="3.85"/>
+      </points>
+      <bodyColor hex="5dfc0a"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.semiconductors.LED>
+      <id>e3474eea-0144-4b25-bdfa-dd0a50f036b5</id>
+      <name>4</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="5.4" y="3.8"/>
+        <point x="5.4" y="3.9"/>
+        <point x="5.4" y="3.85"/>
+      </points>
+      <bodyColor hex="ff0000"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.semiconductors.LED>
+      <id>0da811c6-01ec-463b-a2f9-e542f4db3494</id>
+      <name>3</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="5.6" y="3.8"/>
+        <point x="5.6" y="3.9"/>
+        <point x="5.6" y="3.85"/>
+      </points>
+      <bodyColor hex="ff0000"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.semiconductors.LED>
+      <id>41cf77ca-8722-49f1-abf9-2c5c7c68223c</id>
+      <name>2</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="5.8" y="3.8"/>
+        <point x="5.8" y="3.9"/>
+        <point x="5.8" y="3.85"/>
+      </points>
+      <bodyColor hex="ff0000"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.semiconductors.LED>
+      <id>df0a2d24-7275-4fdf-b845-cbc9cd7e2676</id>
+      <name>1</name>
+      <alpha>0</alpha>
+      <length value="3.0" unit="mm"/>
+      <width value="5.0" unit="mm"/>
+      <points>
+        <point x="6.0" y="3.8"/>
+        <point x="6.0" y="3.9"/>
+        <point x="6.0" y="3.85"/>
+      </points>
+      <bodyColor hex="ff0000"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+    </diylc.semiconductors.LED>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>7eca5b02-40c7-4c77-8155-4923391234d4</id>
+      <name></name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="4.0" y="4.5"/>
+        <point x="4.0" y="4.675000000000001"/>
+        <point x="4.255" y="4.5"/>
+        <point x="4.255" y="4.675000000000001"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <pinSpacing value="4.5" unit="mm"/>
+      <rowSpacing value="6.5" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>f2659194-3ed6-4b79-b9c7-146c8ef4a2ad</id>
+      <name></name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="6.2" y="4.5"/>
+        <point x="6.2" y="4.675000000000001"/>
+        <point x="6.455" y="4.5"/>
+        <point x="6.455" y="4.675000000000001"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <pinSpacing value="4.5" unit="mm"/>
+      <rowSpacing value="6.5" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>1302c749-86d1-4229-a4c6-3ddeeb26d998</id>
+      <name>1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_180</orientation>
+      <controlPoints>
+        <point x="6.4" y="4.4"/>
+        <point x="6.4" y="4.225"/>
+        <point x="6.145" y="4.4"/>
+        <point x="6.145" y="4.225"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <pinSpacing value="4.5" unit="mm"/>
+      <rowSpacing value="6.5" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>94506dbd-d4c6-42af-b5e2-12c70a673214</id>
+      <name>2</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_180</orientation>
+      <controlPoints>
+        <point x="6.0" y="4.4"/>
+        <point x="6.0" y="4.224999999999999"/>
+        <point x="5.745" y="4.4"/>
+        <point x="5.745" y="4.224999999999999"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <pinSpacing value="4.5" unit="mm"/>
+      <rowSpacing value="6.5" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>25b452b2-10ac-4c6f-8311-2a58302e6f00</id>
+      <name>3</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_180</orientation>
+      <controlPoints>
+        <point x="5.6" y="4.4"/>
+        <point x="5.6" y="4.225"/>
+        <point x="5.345" y="4.4"/>
+        <point x="5.345" y="4.225"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>9b6de5f7-9b4b-4e88-82c4-5f34cb89c392</id>
+      <name>4</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_180</orientation>
+      <controlPoints>
+        <point x="5.2" y="4.4"/>
+        <point x="5.2" y="4.225"/>
+        <point x="4.945" y="4.4"/>
+        <point x="4.945" y="4.225"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.passive.Resistor>
+      <id>d44c65e6-1367-4155-962b-1461d055d323</id>
+      <name>R3</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="5.7" y="3.5"/>
+        <point x="5.7" y="3.3"/>
+        <point x="5.7" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <id>694a9d76-3cba-4162-8942-5e8c8b1e9956</id>
+      <name>R4</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="5.8" y="3.3"/>
+        <point x="5.8" y="3.5"/>
+        <point x="5.8" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <id>5434fd83-e06b-4e07-8993-d373978e3004</id>
+      <name>R5</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="5.9" y="3.5"/>
+        <point x="5.9" y="3.3"/>
+        <point x="5.9" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <id>49467d6a-34be-4322-9e12-7f4223510e6a</id>
+      <name>R6</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="6.0" y="3.3"/>
+        <point x="6.0" y="3.5"/>
+        <point x="6.0" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.TrimmerPotentiometer>
+      <id>e3661bb1-9803-4455-be51-370e0a1d777a</id>
+      <name>2</name>
+      <alpha>0</alpha>
+      <controlPoints>
+        <point x="4.2" y="3.5"/>
+        <point x="4.4" y="3.6"/>
+        <point x="4.2" y="3.7"/>
+      </controlPoints>
+      <orientation>DEFAULT</orientation>
+      <taper>LIN</taper>
+      <bodyColor hex="000000"/>
+      <borderColor hex="000000"/>
+      <display>NAME</display>
+      <type>FLAT_SMALL</type>
+    </diylc.passive.TrimmerPotentiometer>
+    <diylc.passive.TrimmerPotentiometer>
+      <id>bea82abc-df81-41f3-97c7-d29cd104011b</id>
+      <name>1</name>
+      <alpha>0</alpha>
+      <controlPoints>
+        <point x="4.2" y="4.0"/>
+        <point x="4.4" y="4.1"/>
+        <point x="4.2" y="4.2"/>
+      </controlPoints>
+      <orientation>DEFAULT</orientation>
+      <taper>LIN</taper>
+      <bodyColor hex="000000"/>
+      <borderColor hex="000000"/>
+      <display>NAME</display>
+      <type>FLAT_SMALL</type>
+    </diylc.passive.TrimmerPotentiometer>
+    <diylc.passive.Resistor>
+      <id>fe8b40f5-522b-452c-b239-1a295f2b7d4f</id>
+      <name>R1</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="5.4" y="3.5"/>
+        <point x="5.4" y="3.3"/>
+        <point x="5.4" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.passive.Resistor>
+      <id>8e18b3ca-26b7-4eaa-9454-d36773a68bee</id>
+      <name>R2</name>
+      <alpha>0</alpha>
+      <length value="0.5" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="5.5" y="3.3"/>
+        <point x="5.5" y="3.5"/>
+        <point x="5.5" y="3.4"/>
+      </points>
+      <bodyColor hex="82cffd"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Horizontal</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value value="220.0" unit="R"/>
+      <power>HALF</power>
+      <colorCode>_5_BAND</colorCode>
+      <shape>Standard</shape>
+    </diylc.passive.Resistor>
+    <diylc.misc.Label>
+      <id>87669daf-a63f-4fa2-91da-09f3400dc757</id>
+      <name>LAB11</name>
+      <point x="5.4" y="4.999999999999999"/>
+      <text>5 V</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>3a0cc2d5-516f-4ee2-8a0f-060432e41851</id>
+      <name>LAB12</name>
+      <point x="5.5" y="4.999999999999999"/>
+      <text>GND</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>878d1c88-d87f-4dec-8e1c-167722541993</id>
+      <name>LAB13</name>
+      <point x="5.6" y="4.999999999999999"/>
+      <text>GND</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>72657c11-0ac4-4f2e-91ad-9f0181368c12</id>
+      <name>LAB14</name>
+      <point x="5.7" y="4.999999999999999"/>
+      <text>VIN</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>b92457ee-eddb-4b28-b1eb-7ec55f7d9d05</id>
+      <name>LAB15</name>
+      <point x="5.9" y="4.999999999999999"/>
+      <text>A0</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>17994c2a-7438-4664-8207-0642935b513e</id>
+      <name>LAB16</name>
+      <point x="6.0" y="4.999999999999999"/>
+      <text>A1</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>89b5c5d8-5536-4306-aee9-c0c8a787c850</id>
+      <name>LAB17</name>
+      <point x="6.1" y="4.999999999999999"/>
+      <text>A2</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>34462899-fe3d-4613-a31d-6250378b0093</id>
+      <name>LAB18</name>
+      <point x="6.2" y="4.999999999999999"/>
+      <text>A3</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>4513ef54-8be7-477b-8369-54c68fe85df9</id>
+      <name>LAB19</name>
+      <point x="6.3" y="4.999999999999999"/>
+      <text>A4</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>583cc7e5-b50e-4445-b67a-d8d5ce031a53</id>
+      <name>LAB20</name>
+      <point x="6.4" y="4.999999999999999"/>
+      <text>A5</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>9e3f4a6c-9ecc-40ea-933f-08d7212448d8</id>
+      <name>LAB21</name>
+      <point x="5.3" y="4.999999999999999"/>
+      <text>3,3 V</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>59eb21b0-951f-4fe4-a33b-8991c5bdd115</id>
+      <name>LAB22</name>
+      <point x="5.2" y="4.999999999999999"/>
+      <text>Reset</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>614909f8-b875-4ebd-ab79-c0845d8217b0</id>
+      <name>LAB23</name>
+      <point x="5.1" y="4.999999999999999"/>
+      <text>IOREF</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>1ce4b003-1559-4d1d-adfe-921f5bdec8fd</id>
+      <name>LAB24</name>
+      <point x="4.7" y="3.1"/>
+      <text>SCL</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>2bd4add0-fe02-432e-81ce-2f3bcf2eaeeb</id>
+      <name>LAB25</name>
+      <point x="4.8" y="3.1"/>
+      <text>SDA</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>e4e918b4-05b1-4db5-b9f6-716d8c22611c</id>
+      <name>LAB26</name>
+      <point x="4.9" y="3.1"/>
+      <text>AREF</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>ca73dd83-05bc-4ad9-8c15-e161947cd4b5</id>
+      <name>LAB27</name>
+      <point x="5.0" y="3.1"/>
+      <text>GND</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>955966b2-ae00-46f4-92d3-a72adcf54f4d</id>
+      <name>LAB28</name>
+      <point x="5.1" y="3.1"/>
+      <text>D13</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>5c8cb0bd-b88b-4df7-81d5-e19116a67f0e</id>
+      <name>LAB29</name>
+      <point x="5.2" y="3.1"/>
+      <text>D12</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>29744295-1034-4a48-9b38-58005c828472</id>
+      <name>LAB30</name>
+      <point x="5.3" y="3.1"/>
+      <text>D11</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>e5cbc40b-1336-4712-8314-c607a3f41df8</id>
+      <name>LAB31</name>
+      <point x="5.4" y="3.1"/>
+      <text>D10</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>0fd855a3-b98f-447b-8739-b44f31f6abb3</id>
+      <name>LAB32</name>
+      <point x="5.5" y="3.1"/>
+      <text>D9</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>8053859c-7af3-4c65-9886-31d628dd7307</id>
+      <name>LAB33</name>
+      <point x="5.6" y="3.1"/>
+      <text>D8</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>85a508a4-9e4f-4d79-91c4-7cbcc0ab4699</id>
+      <name>LAB34</name>
+      <point x="5.7" y="3.1"/>
+      <text>D7</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>a962e4c1-7f13-46dd-ac6a-ff6ee856966c</id>
+      <name>LAB35</name>
+      <point x="5.8" y="3.1"/>
+      <text>D6</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>0a2024fa-2d87-4101-9f7f-d886c67ce224</id>
+      <name>LAB36</name>
+      <point x="5.9" y="3.1"/>
+      <text>D5</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>43a1648e-2d4d-4a30-b87c-e1b616061244</id>
+      <name>LAB37</name>
+      <point x="6.0" y="3.1"/>
+      <text>D4</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>aef10d9d-c9f6-47ab-8117-1bcabe720a0f</id>
+      <name>LAB38</name>
+      <point x="6.1" y="3.1"/>
+      <text>D3</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>efdd7ca6-a25c-4aba-a814-04a816ca4854</id>
+      <name>LAB39</name>
+      <point x="6.2" y="3.1"/>
+      <text>D2</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>824df82a-9a35-4378-9772-e5ca2283966e</id>
+      <name>LAB40</name>
+      <point x="6.3" y="3.1"/>
+      <text>D1</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>aab468bb-7c6d-42db-ab1f-9b3e89f75990</id>
+      <name>LAB41</name>
+      <point x="6.4" y="3.1"/>
+      <text>D0</text>
+      <font name="Verdana" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>e39273b3-a5b3-4c93-bae8-ab2338926295</id>
+      <name>LAB42</name>
+      <point x="5.7" y="3.7"/>
+      <text>Output</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>4f113646-2ae1-436a-9463-eeb048af638b</id>
+      <name>LAB43</name>
+      <point x="4.9" y="3.7"/>
+      <text>PWM</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>e08d6eeb-65b3-4982-9e27-7f95a6c822ee</id>
+      <name>LAB44</name>
+      <point x="5.7" y="4.1"/>
+      <text>Input</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>209e8f01-ad0c-4622-93ea-d08a59555745</id>
+      <name>LAB45</name>
+      <point x="4.3" y="3.855"/>
+      <text>Analog</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>92542403-926d-43ea-a7a6-97cf7d530de5</id>
+      <name>LAB46</name>
+      <point x="6.3" y="4.8"/>
+      <text>PRG&lt;br&gt;S2</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>10c8b2e4-9a61-4b0e-9dde-c9bcbdeba7c1</id>
+      <name>LAB47</name>
+      <point x="4.1" y="4.8"/>
+      <text>SEL&lt;br&gt;S1</text>
+      <font name="Dialog.bold" size="14" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>d15c810a-946f-4bd5-98d9-2e74315e48ff</id>
+      <name>LAB1</name>
+      <point x="6.1" y="4.3"/>
+      <text>D0</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB2</name>
+      <point x="5.7" y="4.3"/>
+      <text>D1</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB3</name>
+      <point x="5.3" y="4.3"/>
+      <text>D2</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB4</name>
+      <point x="4.9" y="4.3"/>
+      <text>D3</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB5</name>
+      <point x="6.0" y="4.0"/>
+      <text>D4</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB6</name>
+      <point x="5.8" y="4.0"/>
+      <text>D5</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB7</name>
+      <point x="5.6" y="4.0"/>
+      <text>D6</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB8</name>
+      <point x="5.4" y="4.0"/>
+      <text>D7</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB9</name>
+      <point x="5.0" y="4.0"/>
+      <text>D9</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB10</name>
+      <point x="4.8" y="4.0"/>
+      <text>D10</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB48</name>
+      <point x="4.6" y="4.1"/>
+      <text>A0</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB49</name>
+      <point x="4.6" y="3.6"/>
+      <text>A1</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB50</name>
+      <point x="4.3" y="4.6"/>
+      <text>D11</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <id>55b0d8d1-59c8-4075-8207-8f4db0047c21</id>
+      <name>LAB51</name>
+      <point x="6.5" y="4.6"/>
+      <text>D8</text>
+      <font name="Dialog.plain" size="14" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>DEFAULT</orientation>
+    </diylc.misc.Label>
+  </components>
+  <groups/>
+  <groupsEx/>
+  <lockedLayers/>
+  <lockedComponents>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[4]"/>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader"/>
+    <diylc.boards.PerfBoard>
+      <id>436f4b58-40c8-4717-bc9d-a48f8aace483</id>
+      <name>Board1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="3.9" y="3.0"/>
+        <point x="6.6" y="5.1"/>
+      </controlPoints>
+      <firstPoint x="3.9" y="3.0"/>
+      <secondPoint x="6.6" y="5.1"/>
+      <boardColor hex="f8ebb3"/>
+      <borderColor hex="ada47d"/>
+      <coordinateColor hex="b6b6b6"/>
+      <xType>Numbers</xType>
+      <coordinateOrigin>Top_Left</coordinateOrigin>
+      <coordinateDisplay>One_Side</coordinateDisplay>
+      <yType>Letters</yType>
+      <length value="68.58" unit="mm"/>
+      <width value="53.34" unit="mm"/>
+      <mode>TwoPoints</mode>
+      <boardUndersideDisplay>NONE</boardUndersideDisplay>
+      <spacing value="0.1" unit="in"/>
+      <padColor hex="da8a67"/>
+    </diylc.boards.PerfBoard>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[3]"/>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[2]"/>
+  </lockedComponents>
+  <hiddenLayers/>
+  <font name="Dialog.plain" size="14" style="0"/>
+</project>
