@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project>
   <fileVersion>
-    <major>4</major>
-    <minor>37</minor>
+    <major>5</major>
+    <minor>9</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -13,6 +13,7 @@
   <dotSpacing>1</dotSpacing>
   <components>
     <diylc.boards.PerfBoard>
+      <id>436f4b58-40c8-4717-bc9d-a48f8aace483</id>
       <name>Board1</name>
       <alpha>127</alpha>
       <value></value>
@@ -32,10 +33,12 @@
       <length value="68.58" unit="mm"/>
       <width value="53.34" unit="mm"/>
       <mode>TwoPoints</mode>
+      <boardUndersideDisplay>NONE</boardUndersideDisplay>
       <spacing value="0.1" unit="in"/>
       <padColor hex="da8a67"/>
     </diylc.boards.PerfBoard>
     <diylc.connectivity.CopperTrace>
+      <id>66bfb4d3-5fff-4eb2-8b8e-6f8d670173f3</id>
       <name>Trace1</name>
       <alpha>127</alpha>
       <points>
@@ -54,8 +57,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>f423cfbe-0573-4fc4-a7d7-362854544dce</id>
       <name>Trace2</name>
       <alpha>127</alpha>
       <points>
@@ -74,8 +79,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0c82f26e-4670-4f88-8fdd-c609866edc7a</id>
       <name>Trace3</name>
       <alpha>127</alpha>
       <points>
@@ -94,8 +101,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>1683656a-e5b1-4a98-b00e-472e1d5483e0</id>
       <name>Trace4</name>
       <alpha>127</alpha>
       <points>
@@ -114,8 +123,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>5951b740-5ffc-4ef1-979c-433202b79ccd</id>
       <name>Trace12</name>
       <alpha>127</alpha>
       <points>
@@ -134,8 +145,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>9908a7c2-13b7-4c97-b79c-6577a3f58c93</id>
       <name>Trace20</name>
       <alpha>127</alpha>
       <points>
@@ -154,8 +167,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>942578cd-a690-4441-9b83-a9431896d53a</id>
       <name>Trace24</name>
       <alpha>127</alpha>
       <points>
@@ -174,8 +189,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>fd9d8fde-9ce0-453d-9e0c-dd184838e00c</id>
       <name>Trace25</name>
       <alpha>127</alpha>
       <points>
@@ -194,8 +211,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>b9f2c32b-cd5f-415d-ac28-66f1e07fad99</id>
       <name>Trace26</name>
       <alpha>127</alpha>
       <points>
@@ -214,8 +233,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>1629c79a-7941-4072-b307-2e86620ed2da</id>
       <name>Trace28</name>
       <alpha>127</alpha>
       <points>
@@ -234,8 +255,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>e2b1b9ef-99a0-4c28-8d09-e35a588569cb</id>
       <name>Trace29</name>
       <alpha>127</alpha>
       <points>
@@ -254,8 +277,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>581c215f-c47e-4abc-b7f4-21ae16369242</id>
       <name>Trace37</name>
       <alpha>127</alpha>
       <points>
@@ -274,8 +299,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>c967455b-10fc-4637-a507-b40c396d49e9</id>
       <name>Trace40</name>
       <alpha>127</alpha>
       <points>
@@ -294,8 +321,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>72bf1726-a6ac-4473-a549-14c250214d41</id>
       <name>Trace41</name>
       <alpha>127</alpha>
       <points>
@@ -314,8 +343,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>5e111b1a-0ffe-4857-a345-4f32aec035cd</id>
       <name>Trace42</name>
       <alpha>127</alpha>
       <points>
@@ -334,8 +365,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>36c06981-7e85-4df4-93a7-a502c7813c78</id>
       <name>Trace44</name>
       <alpha>127</alpha>
       <points>
@@ -354,8 +387,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>f8eadc3f-453b-4edd-a8da-969bc99d833a</id>
       <name>Trace47</name>
       <alpha>127</alpha>
       <points>
@@ -374,8 +409,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0bb17a05-d178-45de-b5f7-0932c29c2e62</id>
       <name>Trace48</name>
       <alpha>127</alpha>
       <points>
@@ -394,8 +431,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>3375ac28-f57b-46e1-bc81-0d192efd4d06</id>
       <name>Trace49</name>
       <alpha>127</alpha>
       <points>
@@ -414,8 +453,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>a47b914b-537c-48b0-b7d6-c6bcba3ccc22</id>
       <name>Trace50</name>
       <alpha>127</alpha>
       <points>
@@ -434,8 +475,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>b422f26e-a8c9-4245-bb00-9d80e95ba50d</id>
       <name>Trace51</name>
       <alpha>127</alpha>
       <points>
@@ -454,8 +497,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>88555d90-a49d-4db4-b5fd-48de36efa21e</id>
       <name>Trace55</name>
       <alpha>127</alpha>
       <points>
@@ -474,8 +519,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0a078feb-01eb-4b8b-a7b3-4082b88c7052</id>
       <name>Trace57</name>
       <alpha>127</alpha>
       <points>
@@ -494,8 +541,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>7bc56adc-dd9d-4832-b8b8-41a971423f1c</id>
       <name>Trace32</name>
       <alpha>127</alpha>
       <points>
@@ -514,8 +563,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>f880ed32-2e0b-4031-9d15-cf44b2c54a53</id>
       <name>Trace62</name>
       <alpha>127</alpha>
       <points>
@@ -534,8 +585,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>d5909e56-64f9-4ee9-957d-d95584f43ea8</id>
       <name>Trace66</name>
       <alpha>127</alpha>
       <points>
@@ -554,8 +607,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>76bb4197-08f9-4898-a440-03dd735e8321</id>
       <name>Trace67</name>
       <alpha>127</alpha>
       <points>
@@ -574,8 +629,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0b6b1448-dd18-4b5a-b3b9-d149a0fce568</id>
       <name>Trace34</name>
       <alpha>127</alpha>
       <points>
@@ -594,8 +651,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>4bbe351d-038f-4493-97d5-241daa52dda9</id>
       <name>Trace36</name>
       <alpha>127</alpha>
       <points>
@@ -614,8 +673,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>72424477-f9bb-41b2-b8da-4054b52d7543</id>
       <name>Trace9</name>
       <alpha>127</alpha>
       <points>
@@ -634,8 +695,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.Jumper>
+      <id>557fb890-3206-4f46-b072-554e35cb972a</id>
       <name>J6</name>
       <alpha>127</alpha>
       <points>
@@ -655,6 +718,7 @@
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
     <diylc.connectivity.CopperTrace>
+      <id>73eb9e44-74e5-4b65-b141-6beffc4d1858</id>
       <name>Trace6</name>
       <alpha>127</alpha>
       <points>
@@ -673,8 +737,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>62b8871e-7038-40ed-9d6a-b63cf0e9e333</id>
       <name>Trace21</name>
       <alpha>127</alpha>
       <points>
@@ -693,8 +759,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>3cea3e65-95b6-40d8-b582-b674dda432e7</id>
       <name>Trace35</name>
       <alpha>127</alpha>
       <points>
@@ -713,8 +781,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>bfc1fdde-5a34-4cfc-bd6e-d243cbe8d1f6</id>
       <name>Trace5</name>
       <alpha>127</alpha>
       <points>
@@ -733,8 +803,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>6ba898c6-72a7-40f2-9ae5-9be29cc594d9</id>
       <name>Trace38</name>
       <alpha>127</alpha>
       <points>
@@ -753,8 +825,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>f112a128-8b18-41ef-9c5c-2b084b200858</id>
       <name>Trace60</name>
       <alpha>127</alpha>
       <points>
@@ -773,8 +847,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>24d52678-c965-401b-b6d8-a66272417baf</id>
       <name>Trace65</name>
       <alpha>127</alpha>
       <points>
@@ -793,8 +869,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>3732e323-79e2-4038-89d0-609174078958</id>
       <name>Trace30</name>
       <alpha>127</alpha>
       <points>
@@ -813,8 +891,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0bceba14-b08c-494a-8841-7afbfc08a5b0</id>
       <name>Trace17</name>
       <alpha>127</alpha>
       <points>
@@ -833,8 +913,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>ea0bbb16-a4e9-4044-adf1-204cb5697693</id>
       <name>Trace18</name>
       <alpha>127</alpha>
       <points>
@@ -853,8 +935,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>7017eb00-bdd2-42ec-ab29-3688905903ef</id>
       <name>Trace19</name>
       <alpha>127</alpha>
       <points>
@@ -873,8 +957,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>786b2d4b-79d4-45d5-98dc-b73947a72e33</id>
       <name>Trace22</name>
       <alpha>127</alpha>
       <points>
@@ -893,8 +979,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>e8d6ea6d-0f4a-4204-aee5-5955f7616b6b</id>
       <name>Trace39</name>
       <alpha>127</alpha>
       <points>
@@ -913,8 +1001,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>58741ff9-66f5-4d13-8066-3cd9c8e0408c</id>
       <name>Trace16</name>
       <alpha>127</alpha>
       <points>
@@ -933,8 +1023,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>7ef5e41f-76e4-49ec-98b6-f73dde8a25ba</id>
       <name>Trace45</name>
       <alpha>127</alpha>
       <points>
@@ -953,8 +1045,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>cb9aed69-9e27-4f76-80c5-03190b93f70a</id>
       <name>Trace53</name>
       <alpha>127</alpha>
       <points>
@@ -973,8 +1067,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>969547ab-57dd-4ac1-b4d9-1657a70611b7</id>
       <name>Trace54</name>
       <alpha>127</alpha>
       <points>
@@ -993,8 +1089,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>4996b07d-73f7-4de2-b05d-98cbfb23d814</id>
       <name>Trace59</name>
       <alpha>127</alpha>
       <points>
@@ -1013,8 +1111,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>cd3cade3-2dfb-4536-8eda-326b0475b7ac</id>
       <name>Trace61</name>
       <alpha>127</alpha>
       <points>
@@ -1033,8 +1133,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>173f7d22-5568-4137-b48f-4eff0dd12fb2</id>
       <name>Trace10</name>
       <alpha>127</alpha>
       <points>
@@ -1053,8 +1155,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>26a43cda-a197-4477-8216-fc66bbe70fa6</id>
       <name>Trace69</name>
       <alpha>127</alpha>
       <points>
@@ -1073,8 +1177,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>b2b84d32-7adf-42ef-a6f4-2a976d6706b5</id>
       <name>Trace8</name>
       <alpha>127</alpha>
       <points>
@@ -1093,8 +1199,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>fc910764-be37-4109-a45c-b45c74934447</id>
       <name>Trace23</name>
       <alpha>127</alpha>
       <points>
@@ -1113,8 +1221,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>14f954a3-cb04-4b28-bb81-ea01e0e222a6</id>
       <name>Trace33</name>
       <alpha>127</alpha>
       <points>
@@ -1133,8 +1243,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>5414dfdb-555b-4b9f-b439-6b502020d769</id>
       <name>Trace56</name>
       <alpha>127</alpha>
       <points>
@@ -1153,8 +1265,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>d990f605-f427-4ee6-bf5c-f166c0866b10</id>
       <name>Trace58</name>
       <alpha>127</alpha>
       <points>
@@ -1173,8 +1287,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>8a4c6d1d-41b1-46e3-814d-956fd44e1d94</id>
       <name>Trace64</name>
       <alpha>127</alpha>
       <points>
@@ -1193,8 +1309,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>1a05db34-98ad-428c-b897-625d18f8498f</id>
       <name>Trace76</name>
       <alpha>127</alpha>
       <points>
@@ -1213,8 +1331,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>25954a53-48c3-4ec4-8a99-5278547adf63</id>
       <name>Trace77</name>
       <alpha>127</alpha>
       <points>
@@ -1233,8 +1353,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>1790ba46-a84d-4fbf-a885-a3a3079fb55c</id>
       <name>Trace78</name>
       <alpha>127</alpha>
       <points>
@@ -1253,8 +1375,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>44c72778-e20b-48b7-9997-5ba1440e70ed</id>
       <name>Trace79</name>
       <alpha>127</alpha>
       <points>
@@ -1273,8 +1397,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>d29ebd77-87fe-4f55-8132-b8b1182ff529</id>
       <name>Trace80</name>
       <alpha>127</alpha>
       <points>
@@ -1293,8 +1419,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>440cbb91-3b35-44cc-9d9e-e53b44c8e583</id>
       <name>Trace81</name>
       <alpha>127</alpha>
       <points>
@@ -1313,8 +1441,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>96e58921-0cb6-47ab-b725-a339040f34c7</id>
       <name>Trace82</name>
       <alpha>127</alpha>
       <points>
@@ -1333,8 +1463,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>0d17101b-d38e-4c85-a1f2-de28fdd7fc44</id>
       <name>Trace83</name>
       <alpha>127</alpha>
       <points>
@@ -1353,8 +1485,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>874545a9-0587-4cff-9348-76647003f0b0</id>
       <name>Trace84</name>
       <alpha>127</alpha>
       <points>
@@ -1373,8 +1507,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>616bdb20-d488-4277-a998-30c597a2a3e9</id>
       <name>Trace31</name>
       <alpha>127</alpha>
       <points>
@@ -1393,8 +1529,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.Jumper>
+      <id>002ffe9b-ca44-452d-b0ff-98021bf62dce</id>
       <name>J1</name>
       <alpha>127</alpha>
       <points>
@@ -1414,6 +1552,7 @@
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
     <diylc.connectivity.CopperTrace>
+      <id>fa197e54-136d-4f62-aa95-9d82f1c79e23</id>
       <name>Trace7</name>
       <alpha>127</alpha>
       <points>
@@ -1432,8 +1571,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>6abe0dbb-4a1a-4ef5-b5ec-6581a9c58604</id>
       <name>Trace11</name>
       <alpha>127</alpha>
       <points>
@@ -1452,8 +1593,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>486a89ea-a050-4788-936a-766d933fdb5d</id>
       <name>Trace13</name>
       <alpha>127</alpha>
       <points>
@@ -1472,8 +1615,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>988ef847-30b6-4b9d-9401-27b56a91f8f7</id>
       <name>Trace14</name>
       <alpha>127</alpha>
       <points>
@@ -1492,8 +1637,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>681df294-1896-4ef8-b47c-817f62d0faf1</id>
       <name>Trace15</name>
       <alpha>127</alpha>
       <points>
@@ -1512,8 +1659,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>eea9dc72-4836-49de-8ab4-0f4a93d51bbb</id>
       <name>Trace27</name>
       <alpha>127</alpha>
       <points>
@@ -1532,8 +1681,10 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
+      <id>436b3ce4-3d65-4953-9b6a-626677df67b3</id>
       <name>Trace43</name>
       <alpha>127</alpha>
       <points>
@@ -1552,9 +1703,12 @@
       <hideShortLeads>false</hideShortLeads>
       <thickness value="1.0" unit="mm"/>
       <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.Turret>
+      <id>ae5cdaaa-b0f3-4ef8-bed7-242f25dbe249</id>
       <name>Turret1</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1562,7 +1716,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>957d2d32-b943-4499-b721-f286766f3723</id>
       <name>Turret2</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1570,7 +1726,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>0b06fd29-03b7-4801-baef-4662170bf701</id>
       <name>Turret3</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1578,7 +1736,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>e3f6b3ba-c309-4a0a-be8c-281caa666547</id>
       <name>Turret4</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1586,7 +1746,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>8a774c6a-499b-4c5f-ab91-970ed0855fd4</id>
       <name>Turret5</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1594,7 +1756,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>1d456999-106e-44da-b326-576f7c9cff15</id>
       <name>Turret6</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1602,7 +1766,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>9c9d260c-6c99-4d3e-bd84-d7bf5c899f3f</id>
       <name>Turret7</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1610,7 +1776,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>e9671197-71c2-4943-a4e8-d0ba374154a5</id>
       <name>Turret8</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1618,7 +1786,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>311bf154-791b-4930-8253-22847b11523f</id>
       <name>Turret9</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1626,7 +1796,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>aeb7249c-31d2-4796-a4bc-1ed01e5f0136</id>
       <name>Turret10</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1634,7 +1806,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>d8b66100-43a1-4452-84c2-23115a436080</id>
       <name>Turret11</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1642,7 +1816,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>77472e1d-78ba-46c8-ab12-8bb026f870cc</id>
       <name>Turret12</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1650,7 +1826,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>ae693d7f-93c1-41d5-9234-5dbe93b612da</id>
       <name>Turret13</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1658,7 +1836,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>db9a1c76-1cb2-432a-a1e6-026735aaf2fb</id>
       <name>Turret14</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1666,7 +1846,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>971bac6d-96d5-4347-a783-1fac469c5280</id>
       <name>Turret15</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1674,7 +1856,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>fb71a7ef-0dbd-4615-8be5-2e85d24ceee0</id>
       <name>Turret16</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1682,7 +1866,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>62adc0f3-c027-4f21-a56f-86c3023f0db5</id>
       <name>Turret17</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1690,7 +1876,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>b4d2fbef-425a-46e4-8ab5-96f99d4f76e6</id>
       <name>Turret18</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1698,7 +1886,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>5b95a05f-ae34-484d-ac93-c3d524063696</id>
       <name>Turret19</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1706,7 +1896,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>93e56047-a52b-4b92-9028-e2fb5e6f38cf</id>
       <name>Turret20</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1714,7 +1906,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>9fee4e2b-b49b-4b2d-9d59-32f92e6a0542</id>
       <name>Turret21</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1722,7 +1916,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>d7d92730-8585-4f29-9cb4-977c8abd2f30</id>
       <name>Turret22</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1730,7 +1926,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>65861d38-af6a-44d2-bae1-0eebc4fb7626</id>
       <name>Turret23</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1738,7 +1936,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>963c254b-2a75-42f1-8b2c-897e0667241b</id>
       <name>Turret24</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1746,6 +1946,7 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>5b3b1abd-cc8f-403f-afdf-786e17ca7284</id>
       <name>Turret25</name>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
@@ -1754,7 +1955,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>99f23a4a-a752-4ee8-b2d7-04c379faea76</id>
       <name>Turret26</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1762,7 +1965,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>55d9439f-4d4b-4b53-a450-66b8bb521107</id>
       <name>Turret27</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1770,7 +1975,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>da1355f2-96ab-4142-aeaa-3910423495f3</id>
       <name>Turret28</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1778,7 +1985,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>8cbeb2f9-6f6d-4a54-a9ef-f94deb2117fa</id>
       <name>Turret29</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1786,7 +1995,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>6e4c6d06-96a8-4cc4-9cb4-4ac3d1acaf7b</id>
       <name>Turret30</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1794,7 +2005,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>2878b2e6-5108-420d-8714-5c46b74fb3de</id>
       <name>Turret31</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1802,7 +2015,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>1b5b8564-6316-4b30-b911-16dbe4a1d933</id>
       <name>Turret32</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1810,7 +2025,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>c22fc70b-4e0d-4bf1-be30-9153f78b496c</id>
       <name>Turret33</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1818,7 +2035,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>772705c2-567b-492e-89db-4c4e7866885c</id>
       <name>Turret34</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1826,7 +2045,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>d373c4cd-fc1d-4370-9a1d-3ed9e0e430de</id>
       <name>Turret35</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1834,7 +2055,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>15b6fec4-ab0b-46bc-89c6-4f387302fe80</id>
       <name>Turret36</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1842,7 +2065,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>4a6186df-19e2-4323-834a-73dd7350628a</id>
       <name>Turret37</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1850,7 +2075,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>455c370c-4c4d-41d0-a07a-a946608ca738</id>
       <name>Turret38</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1858,7 +2085,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>673fd276-9d98-4b44-98a3-a66dfc2641de</id>
       <name>Turret39</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1866,7 +2095,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>ecc62a9f-3789-4125-aeaf-86e82ab5c475</id>
       <name>Turret40</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1874,7 +2105,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>07e246e6-a31e-41bf-b99b-98db98a5fa29</id>
       <name>Turret41</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1882,7 +2115,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>5aa5377d-52f9-442e-9ac9-bb3d8519a3bd</id>
       <name>Turret42</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1890,7 +2125,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>0c5063a9-c604-44a9-9392-09973dbb6740</id>
       <name>Turret43</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1898,7 +2135,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>519926a8-356b-4a2a-9ddd-2c44ead71450</id>
       <name>Turret44</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1906,7 +2145,9 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.connectivity.Turret>
+      <id>ba1b2f4c-4bf4-4972-94b7-b076c173ffca</id>
       <name>Turret45</name>
+      <alpha>127</alpha>
       <size value="0.08" unit="in"/>
       <holeSize value="0.0625" unit="in"/>
       <color hex="e0c04c"/>
@@ -1914,6 +2155,7 @@
       <value></value>
     </diylc.connectivity.Turret>
     <diylc.electromechanical.PinHeader>
+      <id>c57ecf26-bf04-44cf-ad78-cacd786a25f3</id>
       <name>PH2</name>
       <alpha>127</alpha>
       <orientation>_270</orientation>
@@ -1937,6 +2179,7 @@
       <shroudColor hex="595959"/>
     </diylc.electromechanical.PinHeader>
     <diylc.electromechanical.PinHeader>
+      <id>cfecbfb4-5f9b-48ce-bd43-152c3a535da7</id>
       <name>PH1</name>
       <alpha>127</alpha>
       <orientation>_270</orientation>
@@ -1958,6 +2201,7 @@
       <shroudColor hex="595959"/>
     </diylc.electromechanical.PinHeader>
     <diylc.electromechanical.PinHeader>
+      <id>d5fd0c66-002f-4a5e-a561-af49eed05689</id>
       <name>PH4</name>
       <alpha>127</alpha>
       <orientation>_270</orientation>
@@ -1977,6 +2221,7 @@
       <shroudColor hex="595959"/>
     </diylc.electromechanical.PinHeader>
     <diylc.electromechanical.PinHeader>
+      <id>5050dc07-70d4-4aaa-a2ad-f0c33c1338a2</id>
       <name>PH5</name>
       <alpha>127</alpha>
       <orientation>_270</orientation>
@@ -1998,6 +2243,7 @@
       <shroudColor hex="595959"/>
     </diylc.electromechanical.PinHeader>
     <diylc.shapes.Rectangle>
+      <id>152a0658-58cf-437c-9be7-2553a8ddd1d0</id>
       <name>RECT1</name>
       <alpha>127</alpha>
       <value></value>
@@ -2010,9 +2256,11 @@
       <color hex="ffffff"/>
       <borderColor hex="000000"/>
       <borderThickness value="0.5" unit="mm"/>
+      <mode>TwoPoints</mode>
       <edgeRadius value="0.0" unit="mm"/>
     </diylc.shapes.Rectangle>
     <diylc.connectivity.Line>
+      <id>d16bf8ac-2a4e-4d44-9b14-321c8f863560</id>
       <name>LN1</name>
       <alpha>127</alpha>
       <points>
@@ -2033,22 +2281,11 @@
       <style>SOLID</style>
       <thickness value="0.2" unit="mm"/>
       <arrowSize value="5.0" unit="px"/>
-      <arrowTx serialization="custom">
-        <java.awt.geom.AffineTransform>
-          <default>
-            <m00>1.0</m00>
-            <m01>0.0</m01>
-            <m02>0.0</m02>
-            <m10>0.0</m10>
-            <m11>1.0</m11>
-            <m12>0.0</m12>
-          </default>
-        </java.awt.geom.AffineTransform>
-      </arrowTx>
       <arrowStart>false</arrowStart>
       <arrowEnd>false</arrowEnd>
     </diylc.connectivity.Line>
     <diylc.connectivity.Line>
+      <id>31d9e936-a75e-401e-b93a-dc5123cee7b2</id>
       <name>LN2</name>
       <alpha>127</alpha>
       <points>
@@ -2069,22 +2306,11 @@
       <style>SOLID</style>
       <thickness value="0.2" unit="mm"/>
       <arrowSize value="5.0" unit="px"/>
-      <arrowTx serialization="custom">
-        <java.awt.geom.AffineTransform>
-          <default>
-            <m00>1.0</m00>
-            <m01>0.0</m01>
-            <m02>0.0</m02>
-            <m10>0.0</m10>
-            <m11>1.0</m11>
-            <m12>0.0</m12>
-          </default>
-        </java.awt.geom.AffineTransform>
-      </arrowTx>
       <arrowStart>false</arrowStart>
       <arrowEnd>false</arrowEnd>
     </diylc.connectivity.Line>
     <diylc.connectivity.Line>
+      <id>6a550b30-e598-4aa1-9dd4-7b4f974fa66c</id>
       <name>LN3</name>
       <alpha>127</alpha>
       <points>
@@ -2105,22 +2331,11 @@
       <style>SOLID</style>
       <thickness value="0.2" unit="mm"/>
       <arrowSize value="5.0" unit="px"/>
-      <arrowTx serialization="custom">
-        <java.awt.geom.AffineTransform>
-          <default>
-            <m00>1.0</m00>
-            <m01>0.0</m01>
-            <m02>0.0</m02>
-            <m10>0.0</m10>
-            <m11>1.0</m11>
-            <m12>0.0</m12>
-          </default>
-        </java.awt.geom.AffineTransform>
-      </arrowTx>
       <arrowStart>false</arrowStart>
       <arrowEnd>false</arrowEnd>
     </diylc.connectivity.Line>
     <diylc.connectivity.Line>
+      <id>b69f82fa-032d-4606-a13e-3c1d3ecde983</id>
       <name>LN4</name>
       <alpha>127</alpha>
       <points>
@@ -2141,22 +2356,11 @@
       <style>SOLID</style>
       <thickness value="0.2" unit="mm"/>
       <arrowSize value="5.0" unit="px"/>
-      <arrowTx serialization="custom">
-        <java.awt.geom.AffineTransform>
-          <default>
-            <m00>1.0</m00>
-            <m01>0.0</m01>
-            <m02>0.0</m02>
-            <m10>0.0</m10>
-            <m11>1.0</m11>
-            <m12>0.0</m12>
-          </default>
-        </java.awt.geom.AffineTransform>
-      </arrowTx>
       <arrowStart>false</arrowStart>
       <arrowEnd>false</arrowEnd>
     </diylc.connectivity.Line>
     <diylc.misc.Label>
+      <id>c80d6781-49e9-4488-8d2c-74655919430a</id>
       <name>LAB1</name>
       <point x="5.223622047244095" y="2.469291338582677"/>
       <text>revision</text>
@@ -2167,6 +2371,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>16aa3480-a6c5-4ea6-b6f2-6a69f2d00a70</id>
       <name>LAB2</name>
       <point x="5.656692913385828" y="2.469291338582677"/>
       <text>1.0.0</text>
@@ -2177,6 +2382,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>4d4525bd-b816-4e74-8bbe-572482dd9c06</id>
       <name>LAB3</name>
       <point x="4.278740157480315" y="2.469291338582677"/>
       <text>updated</text>
@@ -2187,6 +2393,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>c667d425-634f-4007-8c79-e42732403496</id>
       <name>LAB4</name>
       <point x="4.633070866141732" y="2.469291338582677"/>
       <text>03-2024</text>
@@ -2197,6 +2404,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>1800bdf5-467f-4a9c-9110-b104d69242d1</id>
       <name>LAB5</name>
       <point x="4.436220472440945" y="2.1543307086614174"/>
       <text>drawn by</text>
@@ -2207,6 +2415,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>1841c632-489b-437c-bf89-91c0b44f5657</id>
       <name>LAB6</name>
       <point x="4.357480314960631" y="1.8787401574803153"/>
       <text>title</text>
@@ -2217,6 +2426,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>91a2120f-8843-4082-9f88-f23a97e092ae</id>
       <name>LAB7</name>
       <point x="5.14488188976378" y="2.1543307086614174"/>
       <text>Oliver</text>
@@ -2227,6 +2437,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>43121f7a-93aa-4961-b1f7-6edb4c6aecfd</id>
       <name>LAB8</name>
       <point x="5.14488188976378" y="1.95748031496063"/>
       <text>TPS Shield&lt;br&gt;Tastenprogrammierbare Steuerung</text>
@@ -2237,6 +2448,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>09e6a561-b89d-42a8-8342-f2add41a18fd</id>
       <name>LAB9</name>
       <point x="4.278740157480315" y="2.3118110236220475"/>
       <text>website</text>
@@ -2247,6 +2459,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>a90cfa33-17fa-4aad-8de1-a76b9bf52757</id>
       <name>LAB10</name>
       <point x="5.14488188976378" y="2.3118110236220475"/>
       <text></text>
@@ -2257,6 +2470,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.semiconductors.LED>
+      <id>0a17d4c6-3632-49d6-ae03-7da7771f5f99</id>
       <name>D1</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2278,6 +2492,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>73cb45b2-b08d-4f98-af18-80d3a2806245</id>
       <name>2</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2293,12 +2508,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>138d15ce-a766-4eef-ac35-f092e35690ef</id>
       <name>1</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2314,12 +2530,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>e3474eea-0144-4b25-bdfa-dd0a50f036b5</id>
       <name>4</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2335,12 +2552,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>0da811c6-01ec-463b-a2f9-e542f4db3494</id>
       <name>3</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2356,12 +2574,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>41cf77ca-8722-49f1-abf9-2c5c7c68223c</id>
       <name>2</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2377,12 +2596,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
+      <id>df0a2d24-7275-4fdf-b845-cbc9cd7e2676</id>
       <name>1</name>
       <alpha>127</alpha>
       <length value="3.0" unit="mm"/>
@@ -2398,12 +2618,13 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>7eca5b02-40c7-4c77-8155-4923391234d4</id>
       <name></name>
       <alpha>127</alpha>
       <value></value>
@@ -2418,8 +2639,11 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>f2659194-3ed6-4b79-b9c7-146c8ef4a2ad</id>
       <name></name>
       <alpha>127</alpha>
       <value></value>
@@ -2434,8 +2658,11 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>1302c749-86d1-4229-a4c6-3ddeeb26d998</id>
       <name>1</name>
       <alpha>127</alpha>
       <value></value>
@@ -2450,8 +2677,11 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>94506dbd-d4c6-42af-b5e2-12c70a673214</id>
       <name>2</name>
       <alpha>127</alpha>
       <value></value>
@@ -2466,8 +2696,11 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>25b452b2-10ac-4c6f-8311-2a58302e6f00</id>
       <name>3</name>
       <alpha>127</alpha>
       <value></value>
@@ -2482,8 +2715,11 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.electromechanical.TactileMicroSwitch>
+      <id>9b6de5f7-9b4b-4e88-82c4-5f34cb89c392</id>
       <name>4</name>
       <alpha>127</alpha>
       <value></value>
@@ -2498,9 +2734,12 @@
       <bodyColor hex="c0c0c0"/>
       <borderColor hex="595959"/>
       <labelColor hex="ffffff"/>
+      <caseSize value="6.0" unit="mm"/>
+      <selectedPosition>0</selectedPosition>
     </diylc.electromechanical.TactileMicroSwitch>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>d44c65e6-1367-4155-962b-1461d055d323</id>
+      <name>R3</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2515,16 +2754,17 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>694a9d76-3cba-4162-8942-5e8c8b1e9956</id>
+      <name>R4</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2539,16 +2779,17 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>5434fd83-e06b-4e07-8993-d373978e3004</id>
+      <name>R5</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2563,16 +2804,17 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>49467d6a-34be-4322-9e12-7f4223510e6a</id>
+      <name>R6</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2587,15 +2829,16 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.TrimmerPotentiometer>
+      <id>e3661bb1-9803-4455-be51-370e0a1d777a</id>
       <name>2</name>
       <alpha>127</alpha>
       <controlPoints>
@@ -2611,6 +2854,7 @@
       <type>FLAT_SMALL</type>
     </diylc.passive.TrimmerPotentiometer>
     <diylc.passive.TrimmerPotentiometer>
+      <id>bea82abc-df81-41f3-97c7-d29cd104011b</id>
       <name>1</name>
       <alpha>127</alpha>
       <controlPoints>
@@ -2626,7 +2870,8 @@
       <type>FLAT_SMALL</type>
     </diylc.passive.TrimmerPotentiometer>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>fe8b40f5-522b-452c-b239-1a295f2b7d4f</id>
+      <name>R1</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2641,16 +2886,17 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <name>220 Ω</name>
+      <id>8e18b3ca-26b7-4eaa-9454-d36773a68bee</id>
+      <name>R2</name>
       <alpha>127</alpha>
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
@@ -2665,325 +2911,357 @@
       <leadColor hex="cccccc"/>
       <display>NAME</display>
       <flipStanding>false</flipStanding>
-      <labelOriantation>Directional</labelOriantation>
+      <labelOriantation>Horizontal</labelOriantation>
       <moveLabel>false</moveLabel>
       <hideShortLeads>false</hideShortLeads>
-      <value value="10.0"/>
+      <value value="220.0" unit="R"/>
       <power>HALF</power>
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.misc.Label>
+      <id>87669daf-a63f-4fa2-91da-09f3400dc757</id>
       <name>LAB11</name>
-      <point x="5.4" y="5.2"/>
+      <point x="5.4" y="5.1"/>
       <text>5 V</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>3a0cc2d5-516f-4ee2-8a0f-060432e41851</id>
       <name>LAB12</name>
-      <point x="5.5" y="5.2"/>
+      <point x="5.5" y="5.1"/>
       <text>GND</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>878d1c88-d87f-4dec-8e1c-167722541993</id>
       <name>LAB13</name>
-      <point x="5.6" y="5.2"/>
+      <point x="5.6" y="5.1"/>
       <text>GND</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>72657c11-0ac4-4f2e-91ad-9f0181368c12</id>
       <name>LAB14</name>
-      <point x="5.7" y="5.2"/>
+      <point x="5.7" y="5.1"/>
       <text>VIN</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>b92457ee-eddb-4b28-b1eb-7ec55f7d9d05</id>
       <name>LAB15</name>
-      <point x="5.9" y="5.2"/>
+      <point x="5.9" y="5.1"/>
       <text>A0</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>17994c2a-7438-4664-8207-0642935b513e</id>
       <name>LAB16</name>
-      <point x="6.0" y="5.2"/>
+      <point x="6.0" y="5.1"/>
       <text>A1</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>89b5c5d8-5536-4306-aee9-c0c8a787c850</id>
       <name>LAB17</name>
-      <point x="6.1" y="5.2"/>
+      <point x="6.1" y="5.1"/>
       <text>A2</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>34462899-fe3d-4613-a31d-6250378b0093</id>
       <name>LAB18</name>
-      <point x="6.2" y="5.2"/>
+      <point x="6.2" y="5.1"/>
       <text>A3</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>4513ef54-8be7-477b-8369-54c68fe85df9</id>
       <name>LAB19</name>
-      <point x="6.3" y="5.2"/>
+      <point x="6.3" y="5.1"/>
       <text>A4</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>583cc7e5-b50e-4445-b67a-d8d5ce031a53</id>
       <name>LAB20</name>
-      <point x="6.4" y="5.2"/>
+      <point x="6.4" y="5.1"/>
       <text>A5</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>9e3f4a6c-9ecc-40ea-933f-08d7212448d8</id>
       <name>LAB21</name>
-      <point x="5.3" y="5.2"/>
+      <point x="5.3" y="5.1"/>
       <text>3,3 V</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>59eb21b0-951f-4fe4-a33b-8991c5bdd115</id>
       <name>LAB22</name>
-      <point x="5.2" y="5.2"/>
+      <point x="5.2" y="5.1"/>
       <text>Reset</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>614909f8-b875-4ebd-ab79-c0845d8217b0</id>
       <name>LAB23</name>
-      <point x="5.1" y="5.2"/>
+      <point x="5.1" y="5.1"/>
       <text>IOREF</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>RIGHT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>1ce4b003-1559-4d1d-adfe-921f5bdec8fd</id>
       <name>LAB24</name>
-      <point x="4.7" y="2.9"/>
+      <point x="4.7" y="3.0"/>
       <text>SCL</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>2bd4add0-fe02-432e-81ce-2f3bcf2eaeeb</id>
       <name>LAB25</name>
-      <point x="4.8" y="2.9"/>
+      <point x="4.8" y="3.0"/>
       <text>SDA</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>e4e918b4-05b1-4db5-b9f6-716d8c22611c</id>
       <name>LAB26</name>
-      <point x="4.9" y="2.9"/>
+      <point x="4.9" y="3.0"/>
       <text>AREF</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>ca73dd83-05bc-4ad9-8c15-e161947cd4b5</id>
       <name>LAB27</name>
-      <point x="5.0" y="2.9"/>
+      <point x="5.0" y="3.0"/>
       <text>GND</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>955966b2-ae00-46f4-92d3-a72adcf54f4d</id>
       <name>LAB28</name>
-      <point x="5.1" y="2.9"/>
+      <point x="5.1" y="3.0"/>
       <text>13</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>5c8cb0bd-b88b-4df7-81d5-e19116a67f0e</id>
       <name>LAB29</name>
-      <point x="5.2" y="2.9"/>
+      <point x="5.2" y="3.0"/>
       <text>12</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>29744295-1034-4a48-9b38-58005c828472</id>
       <name>LAB30</name>
-      <point x="5.3" y="2.9"/>
+      <point x="5.3" y="3.0"/>
       <text>11</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>e5cbc40b-1336-4712-8314-c607a3f41df8</id>
       <name>LAB31</name>
-      <point x="5.4" y="2.9"/>
+      <point x="5.4" y="3.0"/>
       <text>10</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>0fd855a3-b98f-447b-8739-b44f31f6abb3</id>
       <name>LAB32</name>
-      <point x="5.5" y="2.9"/>
+      <point x="5.5" y="3.0"/>
       <text>9</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>8053859c-7af3-4c65-9886-31d628dd7307</id>
       <name>LAB33</name>
-      <point x="5.6" y="2.9"/>
+      <point x="5.6" y="3.0"/>
       <text>8</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>85a508a4-9e4f-4d79-91c4-7cbcc0ab4699</id>
       <name>LAB34</name>
-      <point x="5.7" y="2.9"/>
+      <point x="5.7" y="3.0"/>
       <text>7</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>a962e4c1-7f13-46dd-ac6a-ff6ee856966c</id>
       <name>LAB35</name>
-      <point x="5.8" y="2.9"/>
+      <point x="5.8" y="3.0"/>
       <text>6</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>0a2024fa-2d87-4101-9f7f-d886c67ce224</id>
       <name>LAB36</name>
-      <point x="5.9" y="2.9"/>
+      <point x="5.9" y="3.0"/>
       <text>5</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>43a1648e-2d4d-4a30-b87c-e1b616061244</id>
       <name>LAB37</name>
-      <point x="6.0" y="2.9"/>
+      <point x="6.0" y="3.0"/>
       <text>4</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>aef10d9d-c9f6-47ab-8117-1bcabe720a0f</id>
       <name>LAB38</name>
-      <point x="6.1" y="2.9"/>
+      <point x="6.1" y="3.0"/>
       <text>3</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>efdd7ca6-a25c-4aba-a814-04a816ca4854</id>
       <name>LAB39</name>
-      <point x="6.2" y="2.9"/>
+      <point x="6.2" y="3.0"/>
       <text>2</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>824df82a-9a35-4378-9772-e5ca2283966e</id>
       <name>LAB40</name>
-      <point x="6.3" y="2.9"/>
+      <point x="6.3" y="3.0"/>
       <text>1</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>aab468bb-7c6d-42db-ab1f-9b3e89f75990</id>
       <name>LAB41</name>
-      <point x="6.4" y="2.9"/>
+      <point x="6.4" y="3.0"/>
       <text>0</text>
       <font name="Verdana" size="14" style="0"/>
       <color hex="000000"/>
-      <horizontalAlignment>CENTER</horizontalAlignment>
+      <horizontalAlignment>LEFT</horizontalAlignment>
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>e39273b3-a5b3-4c93-bae8-ab2338926295</id>
       <name>LAB42</name>
       <point x="5.7" y="3.7"/>
       <text>Output</text>
@@ -2994,6 +3272,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>4f113646-2ae1-436a-9463-eeb048af638b</id>
       <name>LAB43</name>
       <point x="4.9" y="3.7"/>
       <text>PWM</text>
@@ -3004,6 +3283,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>e08d6eeb-65b3-4982-9e27-7f95a6c822ee</id>
       <name>LAB44</name>
       <point x="5.7" y="4.1"/>
       <text>Input</text>
@@ -3014,6 +3294,7 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>209e8f01-ad0c-4622-93ea-d08a59555745</id>
       <name>LAB45</name>
       <point x="4.3" y="3.855"/>
       <text>Analog</text>
@@ -3024,9 +3305,10 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>92542403-926d-43ea-a7a6-97cf7d530de5</id>
       <name>LAB46</name>
-      <point x="6.6" y="4.6"/>
-      <text>PRG</text>
+      <point x="6.3" y="4.8"/>
+      <text>PRG&lt;br&gt;S2</text>
       <font name="Dialog.bold" size="14" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -3034,9 +3316,10 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
     <diylc.misc.Label>
+      <id>10c8b2e4-9a61-4b0e-9dde-c9bcbdeba7c1</id>
       <name>LAB47</name>
-      <point x="3.9" y="4.6"/>
-      <text>SEL</text>
+      <point x="4.1" y="4.8"/>
+      <text>SEL&lt;br&gt;S1</text>
       <font name="Dialog.bold" size="14" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>CENTER</horizontalAlignment>
@@ -3044,32 +3327,35 @@
       <orientation>DEFAULT</orientation>
     </diylc.misc.Label>
   </components>
-  <groups>
-    <set>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[2]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[8]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[7]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[9]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[2]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[10]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[6]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[5]"/>
-      <diylc.shapes.Rectangle reference="../../../components/diylc.shapes.Rectangle"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[4]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[3]"/>
-      <diylc.connectivity.Line reference="../../../components/diylc.connectivity.Line[3]"/>
-      <diylc.misc.Label reference="../../../components/diylc.misc.Label[4]"/>
-    </set>
-  </groups>
+  <groups/>
+  <groupsEx>
+    <group>
+      <componentIds>
+        <uuid>a90cfa33-17fa-4aad-8de1-a76b9bf52757</uuid>
+        <uuid>1800bdf5-467f-4a9c-9110-b104d69242d1</uuid>
+        <uuid>c667d425-634f-4007-8c79-e42732403496</uuid>
+        <uuid>d16bf8ac-2a4e-4d44-9b14-321c8f863560</uuid>
+        <uuid>b69f82fa-032d-4606-a13e-3c1d3ecde983</uuid>
+        <uuid>6a550b30-e598-4aa1-9dd4-7b4f974fa66c</uuid>
+        <uuid>1841c632-489b-437c-bf89-91c0b44f5657</uuid>
+        <uuid>91a2120f-8843-4082-9f88-f23a97e092ae</uuid>
+        <uuid>16aa3480-a6c5-4ea6-b6f2-6a69f2d00a70</uuid>
+        <uuid>c80d6781-49e9-4488-8d2c-74655919430a</uuid>
+        <uuid>43121f7a-93aa-4961-b1f7-6edb4c6aecfd</uuid>
+        <uuid>152a0658-58cf-437c-9be7-2553a8ddd1d0</uuid>
+        <uuid>31d9e936-a75e-401e-b93a-dc5123cee7b2</uuid>
+        <uuid>09e6a561-b89d-42a8-8342-f2add41a18fd</uuid>
+        <uuid>4d4525bd-b816-4e74-8bbe-572482dd9c06</uuid>
+      </componentIds>
+    </group>
+  </groupsEx>
   <lockedLayers/>
   <lockedComponents>
-    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader"/>
     <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[4]"/>
     <diylc.boards.PerfBoard reference="../../components/diylc.boards.PerfBoard"/>
     <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[3]"/>
     <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[2]"/>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader"/>
   </lockedComponents>
   <hiddenLayers/>
   <font name="Dialog.plain" size="14" style="0"/>
