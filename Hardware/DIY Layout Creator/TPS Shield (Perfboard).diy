@@ -2,7 +2,7 @@
 <project>
   <fileVersion>
     <major>5</major>
-    <minor>9</minor>
+    <minor>10</minor>
     <build>0</build>
   </fileVersion>
   <title>New Project</title>
@@ -3330,11 +3330,11 @@
   </groupsEx>
   <lockedLayers/>
   <lockedComponents>
-    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[2]"/>
     <diylc.boards.PerfBoard reference="../../components/diylc.boards.PerfBoard"/>
-    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader"/>
     <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[4]"/>
     <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[3]"/>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader[2]"/>
+    <diylc.electromechanical.PinHeader reference="../../components/diylc.electromechanical.PinHeader"/>
   </lockedComponents>
   <hiddenLayers/>
   <font name="Dialog.plain" size="14" style="0"/>
