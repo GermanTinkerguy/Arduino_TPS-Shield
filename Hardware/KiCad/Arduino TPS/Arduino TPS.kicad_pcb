@@ -77,9 +77,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerber/")
 		)
 	)
 	(net 0 "")
@@ -6148,6 +6148,96 @@
 		(layer "F.Cu")
 		(net 14)
 		(uuid "fdb5d946-b80f-49fe-b4db-5a6d1f31e7e6")
+	)
+	(gr_line
+		(start 139.7 81.28)
+		(end 137.16 83.82)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "23deda79-4805-4629-b656-931471200844")
+	)
+	(gr_line
+		(start 71.12 83.82)
+		(end 71.12 33.02)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "296c23f3-80f2-4481-8663-4b920212b962")
+	)
+	(gr_line
+		(start 137.16 83.82)
+		(end 137.16 86.36)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "42b1c926-a2ed-452c-9a0a-aa688385c3d9")
+	)
+	(gr_line
+		(start 71.12 33.02)
+		(end 137.16 33.02)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "64b397ae-52d2-417a-87d4-997460be7a07")
+	)
+	(gr_line
+		(start 137.16 45.72)
+		(end 139.7 48.26)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7b851cf1-992a-4f26-9862-a47f49b89ab1")
+	)
+	(gr_line
+		(start 137.16 33.02)
+		(end 137.16 45.72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "983b8f72-80ab-41d0-88db-57b7118583b3")
+	)
+	(gr_line
+		(start 139.7 48.26)
+		(end 139.7 81.28)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "afa38618-eec5-4d41-9c2b-5480335d83a2")
+	)
+	(gr_line
+		(start 71.12 86.36)
+		(end 71.12 83.82)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dfda52fd-7ce5-4ea6-97d1-d0b45c31db55")
+	)
+	(gr_line
+		(start 137.16 86.36)
+		(end 71.12 86.36)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e545c871-f80e-4b6f-a9bc-a047ebea363e")
 	)
 	(segment
 		(start 114.3 73.66)
