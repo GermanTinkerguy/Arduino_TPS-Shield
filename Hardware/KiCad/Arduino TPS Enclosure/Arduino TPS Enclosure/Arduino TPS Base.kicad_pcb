@@ -283,17 +283,6 @@
 			(layer "F.Fab")
 			(uuid "28a76599-3c49-442c-b3cd-4b1dfe7f6c7e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at -2.54 1.27 0)
-			(layer "F.Fab")
-			(uuid "cda06baf-b79a-488a-b56f-ed2788c46190")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at 0 0 90)
 			(size 1.7 1.7)
@@ -326,14 +315,14 @@
 	(footprint "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled"
 		(layer "F.Cu")
 		(uuid "61cf45ef-3c8b-49e9-8c55-7d9c36f5bcf1")
-		(at 32.19 40.1 -90)
+		(at 31 40.1 -90)
 		(descr "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf")
 		(tags "switch SPDT")
 		(property "Reference" "REF**"
 			(at 4 -2.95 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b5baaccb-6ec4-4bae-9311-e7a4ce16b6e1")
+			(uuid "3f2093a6-9ff7-4e54-aac1-bcb84c60792b")
 			(effects
 				(font
 					(size 1 1)
@@ -345,7 +334,7 @@
 			(at 4 14.45 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "049f99d2-a8f5-45f6-8b6b-dea6c1359fb5")
+			(uuid "680106f6-f45f-413b-b0ff-e56cfd8ba166")
 			(effects
 				(font
 					(size 1 1)
@@ -358,7 +347,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "edab36bc-ced5-4f40-aac9-504581f182bb")
+			(uuid "7e901c9a-b8c3-48f4-adb8-d7cfc26d56e7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -371,7 +360,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dce2cacc-17c5-42d3-9200-4f85f4ac3687")
+			(uuid "a8798503-d44a-4e12-9c09-e7abcec63356")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1347,8 +1336,8 @@
 		(layer "Edge.Cuts")
 		(uuid "f99d05b8-6b6d-4f1c-a2b6-fd5be920b5e0")
 	)
-	(gr_text "+"
-		(at 66.04 109.22 0)
+	(gr_text "Vin"
+		(at 76.2 109.22 0)
 		(layer "F.Cu")
 		(uuid "d173f11f-73af-48d1-a52e-e68931d1c65d")
 		(effects
@@ -1360,8 +1349,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "-"
-		(at 76.2 109.22 0)
+	(gr_text "GND"
+		(at 63.5 109.22 0)
 		(layer "F.Cu")
 		(uuid "e7e0a294-b8cb-497e-b369-607204b4e8d4")
 		(effects
@@ -1379,23 +1368,31 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net 0)
-		(uuid "3fe1105a-dfae-45fb-87b3-777d7202c238")
+		(uuid "366a7e19-624d-45eb-8c40-d322f591ab7b")
 	)
 	(segment
-		(start 32.19 44.1)
-		(end 38.04 49.95)
+		(start 31 44.1)
+		(end 32.19 44.1)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 0)
-		(uuid "50a07ebe-c286-454e-96b1-d30cacefa664")
+		(uuid "4e7a8b76-dc6d-45ca-ace2-0aaa81c09fee")
+	)
+	(segment
+		(start 38.04 49.95)
+		(end 41.85 49.95)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 0)
+		(uuid "8d545161-c929-4b1f-8fc2-9a20c2beadcd")
 	)
 	(segment
 		(start 68.04 40.1)
-		(end 32.19 40.1)
+		(end 31 40.1)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 0)
-		(uuid "9b37937e-fdb5-41e3-9066-8f38d05c9ba6")
+		(uuid "9698ed8b-dcf1-4313-87b5-a2a0242325ac")
 	)
 	(segment
 		(start 71.12 109.22)
@@ -1403,7 +1400,7 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net 0)
-		(uuid "a49d55e5-5973-4cd3-84a0-eaff3dcaee76")
+		(uuid "a03afe22-6918-4650-9c91-a7232a54aba3")
 	)
 	(segment
 		(start 41.85 37.25)
@@ -1422,12 +1419,12 @@
 		(uuid "d70ec921-f73e-425f-9684-e79755637971")
 	)
 	(segment
-		(start 38.04 49.95)
-		(end 41.85 49.95)
+		(start 32.19 44.1)
+		(end 38.04 49.95)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 0)
-		(uuid "e6be7461-b4f2-4e54-be58-b30c699cb2d3")
+		(uuid "d8c542f7-2b45-474e-94aa-6a8274f7d196")
 	)
 	(segment
 		(start 73.66 40.64)
