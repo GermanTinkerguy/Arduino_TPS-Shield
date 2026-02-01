@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A5" portrait)
+	(title_block
+		(title "Arduino-TPS Front")
+		(date "2026-02-01")
+		(rev "1.0.0")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -1594,7 +1599,7 @@
 		)
 	)
 	(gr_text "Aussparung für\ndie Wiederstände"
-		(at 63.5 71.12 0)
+		(at 68.58 68.58 0)
 		(layer "Cmts.User")
 		(uuid "a0d599f6-10ea-47d5-ab93-d7ef7dd5a559")
 		(effects
@@ -1633,6 +1638,18 @@
 		(at 58.42 43.18 0)
 		(layer "Cmts.User")
 		(uuid "cc0cb48a-a884-405d-a28d-402a8bed7fd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A0  → Analog 1\nA1  → Analog 2\n\nD0  → Input 1\nD1  → Input 2\nD2  → Input 3\nD3  → Input 4\nD4  → Output 1\nD5  → Output 2\nD6  → Output 3\nD7  → Output 4\nD8  → S2 (PRG)\nD9  → PWM 1\nD10 → PWM 2\nD11 → S1 (SEL)"
+		(at 26.5 55.88 0)
+		(layer "Edge.Cuts")
+		(uuid "6762afd6-8bff-4087-9610-77ecf46e327f")
 		(effects
 			(font
 				(size 1 1)

@@ -9,6 +9,7 @@
 	(paper "A5")
 	(title_block
 		(title "Arduino-TPS Shield")
+		(date "2026-02-01")
 		(rev "2.0.0")
 		(comment 1 "Tastenprogrammierbare Steuerung")
 	)
