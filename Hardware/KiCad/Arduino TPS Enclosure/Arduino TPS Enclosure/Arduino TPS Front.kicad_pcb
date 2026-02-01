@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../../../../../../../Desktop/Gerber/Bottom/")
+			(outputdirectory "../../../../../../../Desktop/Gerber/Front/")
 		)
 	)
 	(net 0 "")
