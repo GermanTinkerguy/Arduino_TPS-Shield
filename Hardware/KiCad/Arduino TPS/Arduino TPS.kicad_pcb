@@ -11,7 +11,6 @@
 		(title "Arduino-TPS Shield")
 		(date "2026-02-01")
 		(rev "2.0.0")
-		(comment 1 "Tastenprogrammierbare Steuerung")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -151,6 +150,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2b9bf671-7912-4954-8ec2-ae973f6bf4ec")
 			(effects
 				(font
@@ -242,7 +242,7 @@
 			(uuid "630040d2-1ea4-475f-a057-23ef5bd130c5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "9b21fab0-3745-43cf-b98e-d9f0ee5c6ca9")
 			(effects
@@ -305,6 +305,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ad15ece0-908d-41b0-a529-d98b436d806a")
 			(effects
 				(font
@@ -396,7 +397,7 @@
 			(uuid "13a60455-3720-4bc9-b8b7-dbd318f767b9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "b05a0ea4-5f58-4450-98fa-9df0dde24ac3")
 			(effects
@@ -455,8 +456,8 @@
 				)
 			)
 		)
-		(property "Value" "R_Potentiometer"
-			(at 0 1 0)
+		(property "Value" "AD1"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "4321c0ae-e6c9-4396-8908-45876612ed1b")
@@ -508,18 +509,6 @@
 			(fill no)
 			(layer "F.SilkS")
 			(uuid "d76b9b2a-392f-4c5c-a093-3a8df793bb75")
-		)
-		(fp_text user "3310 – 9 mm Square Sealed Panel Control"
-			(at 0 2.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "3d29cb26-17d6-40c1-9a1e-fc229ab6685a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at -2.54 2.54)
@@ -577,6 +566,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bfb63114-c6b6-4e5b-8a58-2ff80d79da53")
 			(effects
 				(font
@@ -837,7 +827,7 @@
 			(layer "F.Fab")
 			(uuid "a6f0a1fc-27b2-4526-b6f9-2063dcf7d29f")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "S1"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "4d311b2d-cf05-4ec7-95c7-09a7d8fbcdf5")
@@ -925,6 +915,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "3ff60eec-d6d2-455a-b6c0-509d5fbd293b")
 			(effects
 				(font
@@ -1185,7 +1176,7 @@
 			(layer "F.Fab")
 			(uuid "2e0487ac-7b44-4c83-abb9-81d8b7d72e12")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "E2"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "0a64a28d-fcac-492b-801c-cb24a1798ae1")
@@ -1273,6 +1264,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "fba12973-a5d1-4142-8e33-de7b1bef308a")
 			(effects
 				(font
@@ -1364,7 +1356,7 @@
 			(uuid "e385af2f-798e-4c32-a9b7-52cb16cc2746")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "6346aee8-4cde-4ecf-b071-a8068933e8ce")
 			(effects
@@ -1427,6 +1419,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e6812abc-b023-48bd-a3fc-1a45ce7a1d8d")
 			(effects
 				(font
@@ -1518,7 +1511,7 @@
 			(uuid "9572e91b-dc92-4ee3-a3b1-bc1982c1512e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "f40f0999-a28e-4bed-a0c5-d164213b4b75")
 			(effects
@@ -1813,8 +1806,8 @@
 			(layer "F.Fab")
 			(uuid "8f5e98ca-d1e0-49b6-aac0-59d8787bf63f")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "A2"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "2351e2ed-3c7e-4098-a727-49c75b3b431f")
 			(effects
@@ -1879,6 +1872,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "34433ace-535d-4831-8d14-506ddfe12b8a")
 			(effects
 				(font
@@ -2139,7 +2133,7 @@
 			(layer "F.Fab")
 			(uuid "fdf7e97c-7270-45af-aa5b-a28e05170a9f")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "E3"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "392875b0-2e49-4b9d-982e-6abae142db07")
@@ -2459,8 +2453,8 @@
 			(layer "F.Fab")
 			(uuid "3fcf739d-0b8d-4bdc-a888-674a51b508fa")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "A4"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "c5050395-8fd1-4e0e-b81c-bdc46c3d76be")
 			(effects
@@ -2757,8 +2751,8 @@
 			(layer "F.Fab")
 			(uuid "0ba3a944-669e-4f2e-a475-674959c71da5")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "A1"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "1e081290-5add-48a4-bec9-6f7a5047e96f")
 			(effects
@@ -2823,6 +2817,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0b1b4c08-2ab9-44e6-8f10-b32151f6f6b7")
 			(effects
 				(font
@@ -3083,7 +3078,7 @@
 			(layer "F.Fab")
 			(uuid "477c4880-406b-414d-a420-5e7e5ae7bb03")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "E1"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "7bf4e6f9-4154-426e-8992-d2dbbbaca093")
@@ -3171,6 +3166,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1aa880bd-3c09-4dea-b960-de158baf819e")
 			(effects
 				(font
@@ -3431,7 +3427,7 @@
 			(layer "F.Fab")
 			(uuid "2edc6013-0b75-47cc-9e47-4eb8ca39770a")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "E4"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "c630d5fb-007b-4984-9def-365df2c244bd")
@@ -3751,8 +3747,8 @@
 			(layer "F.Fab")
 			(uuid "9a274671-6b20-4f52-b92a-9ad200ed09b0")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "PWM2"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "b9ea58d6-38ec-4998-a80f-260ae7fbb444")
 			(effects
@@ -3817,6 +3813,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a5bf4d50-274f-4ec1-afa6-6c262a287cb1")
 			(effects
 				(font
@@ -3908,7 +3905,7 @@
 			(uuid "1776d822-c0bd-4785-8f93-6e4af9248c4f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "889ad80e-6199-4444-9543-91aae82e3a76")
 			(effects
@@ -3967,8 +3964,8 @@
 				)
 			)
 		)
-		(property "Value" "R_Potentiometer"
-			(at 0 1 0)
+		(property "Value" "AD2"
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "b9add758-9fbb-4cb0-a916-b0b8c9094334")
@@ -4020,18 +4017,6 @@
 			(fill no)
 			(layer "F.SilkS")
 			(uuid "0103f8d5-c473-4314-890c-c4b472f54bf7")
-		)
-		(fp_text user "3310 – 9 mm Square Sealed Panel Control"
-			(at 0 2.5 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(uuid "1ccfc347-5dfc-4083-bd3b-b4500487f895")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole circle
 			(at -2.54 2.54)
@@ -4321,8 +4306,8 @@
 			(layer "F.Fab")
 			(uuid "a12231bd-949e-4baf-847b-6e17aeac54e4")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "PWM1"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "893185b8-9818-41c8-b329-d2e10b88b21e")
 			(effects
@@ -4387,6 +4372,7 @@
 		(property "Value" "220Ω"
 			(at 2.54 2.37 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b1248c68-c32e-478c-aa22-e06c1241c7d7")
 			(effects
 				(font
@@ -4478,7 +4464,7 @@
 			(uuid "00af49b0-26ac-4366-b1c5-dbed51dde796")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 90)
+			(at 2.54 0 0)
 			(layer "F.Fab")
 			(uuid "21e39612-71e9-4eb9-ab02-bcf3737e5772")
 			(effects
@@ -4541,6 +4527,7 @@
 		(property "Value" "SW_Push"
 			(at 3.75 6.7 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "440b372f-bfc1-434b-ad57-87cfbef5f764")
 			(effects
 				(font
@@ -4801,7 +4788,7 @@
 			(layer "F.Fab")
 			(uuid "aa3147ad-be4b-4fc7-84ef-ab165bcb20b9")
 		)
-		(fp_text user "${REFERENCE}"
+		(fp_text user "S2"
 			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "7393c5a3-8cca-4b32-9278-b54b35f5dc4d")
@@ -5121,8 +5108,8 @@
 			(layer "F.Fab")
 			(uuid "5ec24636-22bc-4378-926c-a30ac242df6e")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.667 90)
+		(fp_text user "A3"
+			(at 1.27 0 0)
 			(layer "F.Fab")
 			(uuid "b4eb673b-7c52-4cac-9f4b-24e782a8eb81")
 			(effects
@@ -5188,6 +5175,7 @@
 		(property "Value" "Arduino_UNO_R3"
 			(at 0 -22.86 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "247cf42e-52e7-4792-8d6c-bf1168703d34")
 			(effects
 				(font
@@ -5739,18 +5727,6 @@
 			)
 			(layer "B.Fab")
 			(uuid "8354790d-b5de-421c-b285-fa9d98dfcb0f")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -20.32 0)
-			(layer "B.Fab")
-			(uuid "a5430820-0151-4adc-b549-ece821e1fd51")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 270)
